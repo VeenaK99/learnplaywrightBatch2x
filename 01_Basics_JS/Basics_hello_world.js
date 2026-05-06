@@ -1,1 +1,1 @@
-console.log("Playwright+AI")
+console.log("Playwright+AI");
