@@ -1,4 +1,6 @@
 console.log("hello world5");
-console.log("thanks")
-console.log("bye");
 console.log("JAI");
+console.log("********");
+var v = 19;
+console.log(v);
+
