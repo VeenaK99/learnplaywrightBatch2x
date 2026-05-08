@@ -8,3 +8,7 @@ console.log($);
 //var 8f = 8;
 var="Break"; //Snake Case;
 var="myPace";//Camel Case;
+
+//Pascal case
+let FirstName = "shaurya";
+console.log(FirstName);
