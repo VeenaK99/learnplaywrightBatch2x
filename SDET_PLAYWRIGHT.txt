@@ -1,8 +1,0 @@
-SDET_PLAYWRIGHT
-
-https://www.sdetclub.com/c/playwright-2x/
-https://docs.google.com/spreadsheets/d/1nuC9T39cfWPRk4aRO-uMeIS3hcnaCDV48tp6jRuH8SY/edit?pli=1&gid=2043370034#gid=2043370034
-
-https://github.com/VeenaK99/learnplaywrightBatch2x.git
-
-
