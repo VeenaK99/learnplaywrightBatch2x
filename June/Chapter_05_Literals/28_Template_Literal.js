@@ -112,12 +112,12 @@ let fullname = `Hi ${firstname} KA`;
 console.log(fullname);
 
 let envt = "staging";
-envt = "prod";
+ envt = "prod";
 const userID = 3456;
 const apiURL = `https://api-${envt}.tekion.com/users/${userID}`;
 console.log(apiURL);
 
 //playright
-const rowIndex = 3;
-const colName = "email";
+const rowIndex=3;
+const colName="email";
 await page.locator(`[data-row="${rowIndex}"][data-col="${colName}"]`).click();

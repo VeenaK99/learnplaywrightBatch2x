@@ -27,6 +27,9 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | `27_String.js` | String Basics | String methods and operations |
 | `28_Template_Literal.js` | Template Literals | ES6 template literals, interpolation, multiline strings |
 | `29_backtick_single_double_quotes.js` | Quote Comparison | Difference between '', "", and `` |
+| `31_Arithmetic.js` | Arithmetic Operators | +, -, *, /, %, **, increment/decrement |
+| `32_modulus.js` | Modulus Operator | Practical uses of % operator |
+| `38_confusing_comparision.js` | Equality & typeof | == vs ===, NaN, typeof operator |
 
 ## How to Use
 
