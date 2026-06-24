@@ -51,3 +51,14 @@ let x = 99, y = 76, z = 55;
 let max2 = x > y ? (y > z ? y : z) : y;
 
 console.log(max2);
+
+
+let isCIA = true;
+let browserModeA = isCIA ? "headless" : "headed";
+console.log("launching browser in:", browserModeA, "mode");
+
+
+
+let Current_tool = true;
+let playrite = Current_tool ? true : false;
+console.log("tool am using " + playrite);
