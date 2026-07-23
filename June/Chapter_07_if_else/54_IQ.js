@@ -5,7 +5,7 @@ if (b > 9) {
 
 let num = 7;
 
-if (num % 2 ===co 0) {
+if (num % 2 === 0) {
     console.log("EVEN number");
 } else {
     console.log("ODD number");
