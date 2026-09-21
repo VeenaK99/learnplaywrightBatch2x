@@ -16,8 +16,8 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_08_Switch_statements](Chapter_08_Switch_statements/) | Switch Statements | Switch, default, grouping, fall-through, real-time examples |
 | [Chapter_09_User_input](Chapter_09_User_input/) | User Input | prompt(), prompt-sync, number input, validation, menu systems |
 | [Chapter_10_Loops](Chapter_10_Loops/) | Loops | for, for-in, for-of, forEach, while, do-while, interview questions |
-| [Chapter_11_Arrays](Chapter_11_Arrays/) | Arrays | Create, access, modify, add/remove, search, iterate, and transform arrays |
-| [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, arrow functions, array methods |
+| [Chapter_11_Arrays](Chapter_11_Arrays/) | Arrays | Create, access, modify, add/remove, search, iterate, transform, sort, slice, concat, and array checking |
+| [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions |
 
 ## Quick Navigation
 
@@ -31,8 +31,8 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 8** - Switch statements: grouping, default, fall-through behavior
 - **Chapter 9** - User input handling with prompt and validation
 - **Chapter 10** - Loops: for, for-in, for-of, forEach, while, do-while
-- **Chapter 11** - Arrays: create, access, modify, search, iterate, and transform
-- **Chapter 12** - Functions and array methods
+- **Chapter 11** - Arrays: create, access, modify, search, iterate, transform, sort, slice, concat, and array checks
+- **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions
 
 ## How to Use
 
