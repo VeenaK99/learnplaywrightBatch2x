@@ -17,7 +17,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_09_User_input](Chapter_09_User_input/) | User Input | prompt(), prompt-sync, number input, validation, menu systems |
 | [Chapter_10_Loops](Chapter_10_Loops/) | Loops | for, for-in, for-of, forEach, while, do-while, interview questions |
 | [Chapter_11_Arrays](Chapter_11_Arrays/) | Arrays | Create, access, modify, add/remove, search, iterate, transform, sort, slice, concat, and array checking |
-| [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions |
+| [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread, and scope |
 
 ## Quick Navigation
 
@@ -32,7 +32,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 9** - User input handling with prompt and validation
 - **Chapter 10** - Loops: for, for-in, for-of, forEach, while, do-while
 - **Chapter 11** - Arrays: create, access, modify, search, iterate, transform, sort, slice, concat, and array checks
-- **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions
+- **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions, IIFE, default & rest parameters, spread, and scope
 
 ## How to Use
 
