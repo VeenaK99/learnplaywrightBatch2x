@@ -21,9 +21,23 @@ for( let i =0 ;i <testMatrix.length;i++){
     console.log();
 }
 
-for(let row  of testMatrix){
+
+//process
+for(let row of testMatrix) {
     for(let cell of row){
-        ProcessingInstruction.
-        
+        process.stdout.write(cell+" ");
     }
+    console.log();
 }
+
+//for each 
+
+console.log("*************************************");
+console.log("for each loop");
+testMatrix.forEach(row => {
+    row.forEach(
+        cell=>process.stdout.write(cell+" "));
+        
+
+console.log();
+    });
