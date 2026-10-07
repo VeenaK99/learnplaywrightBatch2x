@@ -4,8 +4,10 @@
 
 function outer() {
     let message = "hello from outer";
+    console.log("1-outer");
     function inner() {
         console.log(message);
+        console.log("2-inner");
     }
     return inner;
 }
@@ -74,3 +76,4 @@ login("alice");
 login("alice");
 login("alice");
 login("alice");
+

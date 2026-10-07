@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(git commit -F - <<'EOF' feat: add functions chapter, array method files, and update README - add Chapter_12 functions files (declarations, return types, template literals, function expressions, arrow functions) - add Chapter_11 array files for sort, slice, concat/spread/join, isArray/every/some, and a functions summary - update README chapter descriptions for arrays and functions Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
