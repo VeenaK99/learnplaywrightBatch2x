@@ -19,6 +19,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_11_Arrays](Chapter_11_Arrays/) | Arrays | Create, access, modify, add/remove, search, iterate, transform, sort, slice, concat, and array checking |
 | [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions |
 | [Chapter_13_Strings](Chapter_13_Strings/) | Strings | String creation (quotes, backticks, String(), String.raw), properties, indexing, searching/checking, palindrome, and anagram |
+| [Chapter_14_Objects](Chapter_14_Objects/) | Objects | Nested arrays/matrices (test-case data) and iterating rows and cells with nested loops |
 
 ## Quick Navigation
 
@@ -35,6 +36,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 11** - Arrays: create, access, modify, search, iterate, transform, sort, slice, concat, and array checks
 - **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions, IIFE, default & rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions
 - **Chapter 13** - Strings: creation methods, properties, indexing, searching/checking, palindrome and anagram
+- **Chapter 14** - Objects: nested arrays/matrices and iterating rows and cells with nested loops
 
 ## How to Use
 
