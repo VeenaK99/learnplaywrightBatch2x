@@ -20,6 +20,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions |
 | [Chapter_13_Strings](Chapter_13_Strings/) | Strings | String creation (quotes, backticks, String(), String.raw), properties, indexing, searching/checking, palindrome, and anagram |
 | [Chapter_14_Objects](Chapter_14_Objects/) | Objects | Nested arrays/matrices (test-case data), iterating rows and cells with nested loops, and star patterns (forward, reverse, pyramid) |
+| [Chapter_16_Callback](Chapter_16_Callback/) | Callback Functions | Passing functions as arguments, synchronous and asynchronous callbacks (setTimeout), and the nested "pyramid of doom" |
 
 ## Quick Navigation
 
@@ -37,6 +38,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions, IIFE, default & rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions
 - **Chapter 13** - Strings: creation methods, properties, indexing, searching/checking, palindrome and anagram
 - **Chapter 14** - Objects: nested arrays/matrices, nested loops, and star patterns
+- **Chapter 16** - Callback functions: functions as arguments, sync vs async callbacks, and the pyramid of doom
 
 ## How to Use
 
