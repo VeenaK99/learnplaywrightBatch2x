@@ -1,0 +1,8 @@
+# Taste
+- Organizes JavaScript practice/learning code into chapter folders named like `Chapter_N_Topic` (e.g., `Chapter_10_Loops`, `Chapter_14_Objects`) with numbered, snake_case file names such as `142_IQ_pattern.js` or `152_CB_parameter.js`; new programs should follow this existing structure and naming rather than creating ad-hoc files. Confidence: 0.65
+- Collects multiple related small programs in a single file, separating them with a `console.log("___________")` divider line. Confidence: 0.5
+- Maintains a root `README.md` that documents each chapter (e.g., a chapter table plus a bulleted chapter list) and expects it updated to reflect new work as part of a change. Confidence: 0.6
+- Expects changes to be committed and pushed to the git repository as part of finishing a task; commit messages follow Conventional Commits style (e.g., `feat: ...`). Confidence: 0.5
+- Works on Windows, so shell commands must avoid Unix-only constructs — e.g., git commit uses multiple `-m` flags instead of a heredoc. Confidence: 0.45
+- When asking for explanations of a concept while learning, wants them expressed simply and intuitively with everyday analogies (e.g., pyramid as a stack of blocks) and grounded in a small concrete runnable example program (e.g., "a simple program on nested pyramid of doom"), not dense abstract technical prose. Confidence: 0.55
+- Wants requests performed literally and minimally — e.g., "create a folder" means create only the empty folder, not a starter file inside it, and "create an empty file" means a zero-byte file with no boilerplate or placeholder code; avoid unrequested extra artifacts. Confidence: 0.65

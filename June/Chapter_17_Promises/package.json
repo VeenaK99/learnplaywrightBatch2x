@@ -1,0 +1,13 @@
+{
+  "name": "chapter-17-promises",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runnable Playwright example showing how Promises and async/await work",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node 155_playwright_promise_demo.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}

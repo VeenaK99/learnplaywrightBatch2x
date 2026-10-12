@@ -20,7 +20,8 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_12_Functions](Chapter_12_Functions/) | Functions | Function declarations, return/no-return types, template literals, function expressions, arrow functions, IIFE, default parameters, rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions |
 | [Chapter_13_Strings](Chapter_13_Strings/) | Strings | String creation (quotes, backticks, String(), String.raw), properties, indexing, searching/checking, palindrome, and anagram |
 | [Chapter_14_Objects](Chapter_14_Objects/) | Objects | Nested arrays/matrices (test-case data), iterating rows and cells with nested loops, and star patterns (forward, reverse, pyramid) |
-| [Chapter_16_Callback](Chapter_16_Callback/) | Callback Functions | Passing functions as arguments, synchronous and asynchronous callbacks (setTimeout), and the nested "pyramid of doom" |
+| [Chapter_16_Callback](Chapter_16_Callback/) | Callback Functions | Passing functions as arguments, callbacks with parameters, returning values from callbacks, synchronous and asynchronous callbacks (setTimeout), and the nested "pyramid of doom" |
+| [Chapter_17_Promises](Chapter_17_Promises/) | Promises | Creating promises, resolve/reject, `.then()`, simulating real API responses, and a runnable Playwright async/await demo (single await, `Promise.all`, and try/catch error handling) |
 
 ## Quick Navigation
 
@@ -38,7 +39,8 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 12** - Functions: declarations, return types, template literals, function expressions, arrow functions, IIFE, default & rest parameters, spread, scope, closures, higher-order functions, and pure vs impure functions
 - **Chapter 13** - Strings: creation methods, properties, indexing, searching/checking, palindrome and anagram
 - **Chapter 14** - Objects: nested arrays/matrices, nested loops, and star patterns
-- **Chapter 16** - Callback functions: functions as arguments, sync vs async callbacks, and the pyramid of doom
+- **Chapter 16** - Callback functions: functions as arguments, callbacks with parameters and return values, sync vs async callbacks, and the pyramid of doom
+- **Chapter 17** - Promises: resolve/reject, `.then()`, real API simulation, and a runnable Playwright async/await demo
 
 ## How to Use
 
