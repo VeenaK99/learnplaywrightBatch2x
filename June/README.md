@@ -21,7 +21,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_13_Strings](Chapter_13_Strings/) | Strings | String creation (quotes, backticks, String(), String.raw), properties, indexing, searching/checking, palindrome, and anagram |
 | [Chapter_14_Objects](Chapter_14_Objects/) | Objects | Nested arrays/matrices (test-case data), iterating rows and cells with nested loops, and star patterns (forward, reverse, pyramid) |
 | [Chapter_16_Callback](Chapter_16_Callback/) | Callback Functions | Passing functions as arguments, callbacks with parameters, returning values from callbacks, synchronous and asynchronous callbacks (setTimeout), and the nested "pyramid of doom" |
-| [Chapter_17_Promises](Chapter_17_Promises/) | Promises | Creating promises, resolve/reject, `.then()`, `.catch()`, and `.finally()`, simulating real API responses (success and error cases), and a runnable Playwright async/await demo (single await, `Promise.all`, and try/catch error handling) |
+| [Chapter_17_Promises](Chapter_17_Promises/) | Promises | Creating promises, resolve/reject, `.then()` / `.catch()` / `.finally()`, chaining `.then()` for sequential async steps, `Promise.all` (fail-fast) vs `Promise.allSettled`, simulating real API responses (success and error cases), promise interview questions (value passing, `throw` inside `.then`, `err.message`), and a runnable Playwright async/await demo |
 
 ## Quick Navigation
 
@@ -40,7 +40,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 13** - Strings: creation methods, properties, indexing, searching/checking, palindrome and anagram
 - **Chapter 14** - Objects: nested arrays/matrices, nested loops, and star patterns
 - **Chapter 16** - Callback functions: functions as arguments, callbacks with parameters and return values, sync vs async callbacks, and the pyramid of doom
-- **Chapter 17** - Promises: resolve/reject, `.then()`, `.catch()`, `.finally()`, real API simulation, and a runnable Playwright async/await demo
+- **Chapter 17** - Promises: resolve/reject, `.then()` / `.catch()` / `.finally()`, promise chaining, `Promise.all` (fail-fast) vs `Promise.allSettled`, real API simulation, interview-style questions, and a runnable Playwright async/await demo
 
 ## How to Use
 
