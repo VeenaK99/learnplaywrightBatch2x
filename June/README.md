@@ -22,6 +22,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 | [Chapter_14_Objects](Chapter_14_Objects/) | Objects | Nested arrays/matrices (test-case data), iterating rows and cells with nested loops, and star patterns (forward, reverse, pyramid) |
 | [Chapter_16_Callback](Chapter_16_Callback/) | Callback Functions | Passing functions as arguments, callbacks with parameters, returning values from callbacks, synchronous and asynchronous callbacks (setTimeout), and the nested "pyramid of doom" |
 | [Chapter_17_Promises](Chapter_17_Promises/) | Promises | Creating promises, resolve/reject, `.then()` / `.catch()` / `.finally()`, chaining `.then()` for sequential async steps, `Promise.all` (fail-fast) vs `Promise.allSettled`, simulating real API responses (success and error cases), promise interview questions (value passing, `throw` inside `.then`, `err.message`), and a runnable Playwright async/await demo |
+| [Chapter_18_Async](Chapter_18_Async/) | Async/Await | `async` functions always returning a promise, `await` for sequential async steps, `try` / `catch` / `finally` error handling, the "pyramid of doom" callback problem, and parallel async execution |
 
 ## Quick Navigation
 
@@ -41,6 +42,7 @@ This repository contains JavaScript exercises and concepts organized by chapters
 - **Chapter 14** - Objects: nested arrays/matrices, nested loops, and star patterns
 - **Chapter 16** - Callback functions: functions as arguments, callbacks with parameters and return values, sync vs async callbacks, and the pyramid of doom
 - **Chapter 17** - Promises: resolve/reject, `.then()` / `.catch()` / `.finally()`, promise chaining, `Promise.all` (fail-fast) vs `Promise.allSettled`, real API simulation, interview-style questions, and a runnable Playwright async/await demo
+- **Chapter 18** - Async/Await: `async` functions return promises, `await`, `try` / `catch` / `finally`, the pyramid of doom, and parallel async execution
 
 ## How to Use
 
